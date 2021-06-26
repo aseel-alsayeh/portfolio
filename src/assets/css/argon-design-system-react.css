@@ -27,7 +27,7 @@
   --purple: #8965e0;
   --pink: #f3a4b5;
   --red: #f5365c;
-  --orange: #fb6340;
+  --orange:rgb(138,75,86);
   --yellow: #ffd600;
   --green: #2dce89;
   --teal: #11cdef;
@@ -41,7 +41,7 @@
   --secondary: #f4f5f7;
   --success: #2dce89;
   --info: #11cdef;
-  --warning: #fb6340;
+  --warning: rgb(138,75,86);
   --danger: #f5365c;
   --light: #adb5bd;
   --dark: #212529;
@@ -17043,3 +17043,6 @@ td.rdtYear:hover {
   width: 1%; }
 
 /*# sourceMappingURL=argon-design-system-react.css.map */
+.mt-4{
+background-color: rgb(138,75,86);
+}
